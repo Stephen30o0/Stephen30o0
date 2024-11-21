@@ -46,9 +46,9 @@ Welcome to my GitHub! I'm passionate about using technology to solve real-world 
 
 ---
 
-![Olurinola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
-![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet)
+![Olurinola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Stephen30o0&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Stephen30o0&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=Stephen30o0&color=blueviolet)
 
 
 ---

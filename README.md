@@ -43,10 +43,12 @@ Welcome to my GitHub! I'm passionate about using technology to solve real-world 
 ## 🌍 **Get in Touch**
 - **LinkedIn:** [linkedin.com/in/stephenolurinola](https://www.linkedin.com/in/stephenolurinola)
 - **Email:** koreolurinola@gmail.com
-- **Portfolio:** [Your Portfolio Link](https://example.com)
 
 ---
 
 ![Olurinola's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourGitHubUsername&layout=compact&theme=radical)
+![Profile Views](https://komarev.com/ghpvc/?username=YourGitHubUsername&color=blueviolet)
+
 
 ---

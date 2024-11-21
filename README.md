@@ -36,7 +36,7 @@ Welcome to my GitHub! I'm passionate about using technology to solve real-world 
 ## 🏆 **Achievements**
 - **Future Port Awards Semi-Finalist (2024):** Recognized for EcoDrinks' innovation and sustainability impact.
 - **ALX Ventures Accelerator Participant:** Learned strategies for scaling tech startups.
-- **Cultural Strategist at KuzaSanaa:** Focused on integrating arts and technology.
+- **Cultural Strategist:** Focused on integrating arts and technology.
 
 ---
 

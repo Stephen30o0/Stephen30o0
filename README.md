@@ -9,7 +9,7 @@ Welcome to my GitHub! I'm passionate about using technology to solve real-world 
 ## 🌟 **About Me**
 - 🎓 **Bachelor of Science in Software Engineering** at African Leadership University, Kigali, Rwanda.
 - 🔧 Focus Areas: Software Engineering, AI/ML, IoT, Sustainability, and Cultural Preservation.
-- 🌱 Co-Founder of [EcoDrinks](https://example.com) – reducing single-use plastics with IoT technology.
+- 🌱 Co-Founder of EcoDrinks – reducing single-use plastics with IoT technology.
 - 🎨 Creator of AfriTales – a platform celebrating African folklore through interactive storytelling.
 
 ---

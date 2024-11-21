@@ -17,11 +17,9 @@ Welcome to my GitHub! I'm passionate about using technology to solve real-world 
 ## 🚀 **Notable Projects**
 | **Project** | **Description** | **Tech Stack** |
 |-------------|-----------------|----------------|
-| [EcoDrinks](https://github.com/your-eco-drinks-repo) | IoT-enabled drink dispensers for sustainable beverage solutions. | Python, IoT, React, Firebase |
-| [AfriTales](https://github.com/your-afritales-repo) | Interactive platform for African folklore and legends. | React, Node.js, MongoDB |
-| [Dog Breed Identifier](https://github.com/your-dog-ai-repo) | AI-based tool to identify dog breeds from images. | TensorFlow, OpenCV |
-| [Ouevre](https://github.com/your-oueuvre-repo) | Collaborative platform for artists to share and co-create. | React, Firebase, Python |
-| [Steksons Inventory System](https://github.com/your-inventory-repo) | Efficient pharmacy inventory management system. | C#, SQL |
+| [AfriTales](https://github.com/Stephen30o0/AfriTales) | Interactive platform for African folklore and legends. | React, Node.js, MongoDB |
+| [Dog Breed Identifier](https://github.com/Stephen30o0/Pre-trained-Image-Classifier-to-Identify-Dog-Breeds) | AI-based tool to identify dog breeds from images. | TensorFlow, OpenCV |
+| [Ouevre](https://github.com/Uwimbabazi-Keza/Ouevre) | Collaborative platform for artists to share and co-create. | React, Firebase, Python |
 
 ---
 

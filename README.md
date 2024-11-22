@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Olurinola Olukorede!
+# 👋 Hi, I'm Korede!
 
 ### 💻 Software Engineer | 🚀 Startup Founder | 🌍 Sustainability Advocate
 
